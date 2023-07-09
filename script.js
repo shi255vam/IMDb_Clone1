@@ -191,3 +191,4 @@ async function favoritesMovieLoader() {
     //Appending the html to the movie-display class in favorites page 
     document.querySelector('.fav-container').innerHTML = output;
 }
+
